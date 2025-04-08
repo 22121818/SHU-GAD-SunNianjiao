@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "796035208",
+    "Type": "Bus",
+    "GUID": "{F3962846-19D4-41BA-839E-847EA2FDC557}",
+    "Language": "SFX",
+    "Hash": "{3D2D8345-D0E8-B19F-6643-C54AAF7DBE22}",
+    "ObjectPath": "Reverb_General",
+    "ShortName": "Reverb_General",
+    "Path": "Bus/79/Reverb_General.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "2513915904",
+       "Name": "Hall_Large",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Halls\\Hall_Large",
+       "GUID": "{6D154498-FF6D-4823-96FC-56841B70E079}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "796035208",
+      "Name": "Reverb_General",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\AutoBus\\Reverb\\Reverb_General",
+      "GUID": "{F3962846-19D4-41BA-839E-847EA2FDC557}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2513915904"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5B728152-7EE8-06D7-6320-83C0A00AC8B9}"
+ }
+}

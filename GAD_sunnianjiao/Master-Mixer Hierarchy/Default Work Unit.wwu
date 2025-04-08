@@ -9,6 +9,33 @@
 							<ObjectRef Name="System" ID="{B69F00D7-7679-46E4-AC03-D6491AE7E44E}" WorkUnitID="{CF7F3B6C-A341-469F-9993-8011CDE88D3C}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="AutoBus" ID="{CDAD75A0-94E4-47A3-9015-920A65E04B3C}">
+							<ChildrenList>
+								<Bus Name="Reverb" ID="{4393E5D3-1313-409D-B755-528002FA73FD}">
+									<ChildrenList>
+										<AuxBus Name="Reverb_General" ID="{F3962846-19D4-41BA-839E-847EA2FDC557}">
+											<ObjectLists>
+												<ObjectList Name="Effects">
+													<Reference>
+														<Local>
+															<EffectSlot Name="" ID="{9AAAF9CE-186B-4543-A265-B37E458768E8}" ShortID="893700144">
+																<ReferenceList>
+																	<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+																		<ObjectRef Name="Hall_Large" ID="{6D154498-FF6D-4823-96FC-56841B70E079}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+																	</Reference>
+																</ReferenceList>
+															</EffectSlot>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</AuxBus>
+									</ChildrenList>
+								</Bus>
+							</ChildrenList>
+						</Bus>
+					</ChildrenList>
 				</Bus>
 			</ChildrenList>
 		</WorkUnit>

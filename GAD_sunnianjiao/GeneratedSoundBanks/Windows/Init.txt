@@ -1,5 +1,13 @@
 Audio Bus	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\AutoBus\Reverb	
+	2657522302	AutoBus			\Default Work Unit\Master Audio Bus\AutoBus	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	796035208	Reverb_General			\Default Work Unit\Master Audio Bus\AutoBus\Reverb\Reverb_General	
+
+Effect plug-ins	ID	Name	Type				Notes
+	2513915904	Hall_Large	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			
