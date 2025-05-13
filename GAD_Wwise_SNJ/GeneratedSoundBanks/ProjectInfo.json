@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "GAD_Wwise_SNJ",
+   "GUID": "{22688662-56DC-4FB3-9E04-F95E51570798}",
+   "Generator": "2024.1.3.8749"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{C11B001D-5CBA-4FFE-A903-EB6FC20685DE}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{E92A9B43-15C3-44CB-A3D4-C0A0D285A85C}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{41658AD4-05A5-F0B7-1DF2-6290070F3D56}"
+ }
+}
