@@ -8,7 +8,18 @@
 						<Action Name="" ID="{C4E278EA-8CDC-42D9-98FE-718074D15208}" ShortID="575417685">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{6091972D-4BD8-46EB-AD14-DBC68DD34A1E}" WorkUnitID="{E96372FF-9E39-4FF3-88DC-833CF3F9CC2C}"/>
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{6091972D-4BD8-46EB-AD14-DBC68DD34A1E}" WorkUnitID="{9CE7EC1A-70FA-4B0A-8814-3321801602C8}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_Campfire_Burn" ID="{E3CA929E-7999-4C52-BFCE-ADA6509228AE}">
+					<ChildrenList>
+						<Action Name="" ID="{1F52B879-01ED-4B0D-A1BD-9AB071FC6FF5}" ShortID="222304691">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Campfire_Burn" ID="{F6B7CE99-9AB5-4882-A47A-2D04C06A33CF}" WorkUnitID="{65D76BC0-79E5-4C9B-887A-0E8F88C8429F}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
