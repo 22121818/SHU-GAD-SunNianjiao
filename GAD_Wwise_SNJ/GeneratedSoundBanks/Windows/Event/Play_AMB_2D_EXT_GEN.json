@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3344FBDF-21A8-46B0-A195-D4C10582FC9F}",
     "Language": "SFX",
-    "Hash": "{1146807E-559E-5D4B-5291-AA5FC8A1C57A}",
+    "Hash": "{76D0A3F3-509F-9B0D-3E77-9B7C7C8290CD}",
     "ObjectPath": "Play_AMB_2D_EXT_GEN",
     "ShortName": "Play_AMB_2D_EXT_GEN",
     "Path": "Event/Play_AMB_2D_EXT_GEN.bnk",
@@ -31,6 +31,7 @@
       "Name": "Play_AMB_2D_EXT_GEN",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_AMB_2D_EXT_GEN",
       "GUID": "{3344FBDF-21A8-46B0-A195-D4C10582FC9F}",
+      "MaxAttenuation": "5000",
       "DurationType": "OneShot",
       "DurationMin": "30",
       "DurationMax": "30",
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{94E615E5-1D21-9C91-46E2-65297599AA90}"
+  "FileHash": "{8AE797A0-D45F-48E4-6BF9-B200BEFFE6DD}"
  }
 }
