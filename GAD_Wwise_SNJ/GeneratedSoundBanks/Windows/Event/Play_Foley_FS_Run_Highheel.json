@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{6505C6D6-5796-42E6-B96D-B5879EB98403}",
     "Language": "SFX",
-    "Hash": "{F51644D9-1618-ED9D-26BE-6B3579B16EF9}",
+    "Hash": "{523A2150-2EA6-46F0-17C4-4F84BC648A85}",
     "ObjectPath": "Play_Foley_FS_Run_Highheel",
     "ShortName": "Play_Foley_FS_Run_Highheel",
     "Path": "Event/Play_Foley_FS_Run_Highheel.bnk",
@@ -558,6 +558,6 @@
     ]
    }
   ],
-  "FileHash": "{83B9F8F5-2D0A-D1E3-F11C-2FD348660561}"
+  "FileHash": "{6778FA62-9DF5-9B9B-47DE-CDE56209AADB}"
  }
 }
