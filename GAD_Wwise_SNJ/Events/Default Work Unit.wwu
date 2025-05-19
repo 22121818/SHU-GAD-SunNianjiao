@@ -25,6 +25,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Foley_FS_Run_Highheel" ID="{6505C6D6-5796-42E6-B96D-B5879EB98403}">
+					<ChildrenList>
+						<Action Name="" ID="{2BE6836F-067A-4E0C-A829-E42E9E1472E6}" ShortID="370767250">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Foley_FS_Run_Highheel" ID="{77256E36-BE63-40B5-957A-69FC6508C49E}" WorkUnitID="{9969E2E1-FEE4-4E03-BBCC-30D459409955}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

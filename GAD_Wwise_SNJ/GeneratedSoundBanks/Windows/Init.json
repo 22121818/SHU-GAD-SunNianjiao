@@ -72,9 +72,63 @@
        ]
       }
      }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "2413944604",
+      "Name": "ShoeType",
+      "ObjectPath": "\\Switches\\Default Work Unit\\ShoeType",
+      "GUID": "{41C42BA5-C523-4A69-A467-BDFC79343375}",
+      "Switches": [
+       {
+        "Id": "222212622",
+        "Name": "Sneaker",
+        "ObjectPath": "\\Switches\\Default Work Unit\\ShoeType\\Sneaker",
+        "GUID": "{8F88A13B-2CCC-47C2-A4D5-58D42710C7EB}"
+       },
+       {
+        "Id": "3129509287",
+        "Name": "Highheel",
+        "ObjectPath": "\\Switches\\Default Work Unit\\ShoeType\\Highheel",
+        "GUID": "{B838D863-DBB2-4578-A28A-D73F13F7C85C}"
+       }
+      ]
+     },
+     {
+      "Id": "3865314626",
+      "Name": "Material",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material",
+      "GUID": "{2EAFE0B7-2E0F-4B7E-92CA-C93B84D3F7B5}",
+      "Switches": [
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Wood",
+        "GUID": "{DF5942F4-8C29-4A73-98FC-D71D910C7FDA}"
+       },
+       {
+        "Id": "2144363834",
+        "Name": "Rock",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Rock",
+        "GUID": "{DFAA0E4B-0B91-4DAB-A2A7-20764490F6F9}"
+       },
+       {
+        "Id": "2195636714",
+        "Name": "Dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Dirt",
+        "GUID": "{0BD4E0C7-AE63-4498-AF06-76C0F6AC05C7}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Grass",
+        "GUID": "{3ADEA3B8-73DA-4C4A-89D9-6064E5BD5168}"
+       }
+      ]
+     }
     ]
    }
   ],
-  "FileHash": "{234F82C7-5F74-4EE9-66D8-C4A44CCD8205}"
+  "FileHash": "{D678E5F5-5ABE-92B9-149E-F6B1E2B5EB4B}"
  }
 }
